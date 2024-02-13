@@ -17,14 +17,14 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background-color: rgba(255, 255, 255, 0.5); /* Set opacity to 50% */
+            background-color: rgba(255, 255, 255, 0.2); /* Set opacity to 20% */
             z-index: -1; /* Ensure the background image is behind other content */
         }
 
         /* Additional styling for content */
         .content {
             padding: 20px;
-            background-color: rgba(255, 255, 255, 0.8); /* Background color with opacity */
+            background-color: rgba(255, 255, 255, 1.8); /* Background color with opacity */
         }
     </style>
 </head>
