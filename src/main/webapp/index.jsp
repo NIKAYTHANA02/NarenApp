@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Home Page</title>
+	<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
     <style>
         body {
             background-image: url('images/logo_bg.png');
