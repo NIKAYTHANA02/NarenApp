@@ -4,4 +4,12 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
+	<servlet>
+	    <servlet-name>NextPageServlet</servlet-name>
+	    <jsp-file>/nextpage.jsp</jsp-file>
+	</servlet>
+	<servlet-mapping>
+	    <servlet-name>NextPageServlet</servlet-name>
+	    <url-pattern>/nextpage</url-pattern>
+	</servlet-mapping>
 </web-app>
