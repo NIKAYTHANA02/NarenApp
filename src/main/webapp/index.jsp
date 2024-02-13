@@ -24,7 +24,7 @@
         /* Additional styling for content */
         .content {
             padding: 20px;
-            background-color: rgba(255, 255, 255, 1.8); /* Background color with opacity */
+            background-color: rgba(255, 255, 255, 0.8); /* Background color with opacity */
         }
     </style>
 </head>
