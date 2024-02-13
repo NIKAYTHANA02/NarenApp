@@ -18,7 +18,7 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background-color: rgba(255, 255, 255, 0.1); /* Set opacity to 30% */
+            background-color: rgba(255, 255, 255, 0.8); /* Set opacity to 30% */
             z-index: -1; /* Ensure the background image is behind other content */
         }
 
