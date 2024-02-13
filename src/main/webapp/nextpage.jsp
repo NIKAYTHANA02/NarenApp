@@ -30,7 +30,9 @@
     </style>
 </head>
 <body>
-    <img src="images/linuxerpro_logo.png" alt="My Logo" width="200" height="100">
+    <a href="index.jsp">
+        <img src="images/linuxerpro_logo.png" alt="My Logo" width="200" height="100">
+    </a>
     <h2>Why You Here</h2>
     <p>Here Nothing to SEE</p>
     <a href="index.jsp">Go back to Work</a>
