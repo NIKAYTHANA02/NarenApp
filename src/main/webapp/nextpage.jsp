@@ -36,5 +36,6 @@
     <h2>Why You Here</h2>
     <p>Here Nothing to SEE</p>
     <a href="index.jsp">Go back to Work</a>
+	<a href="imagepage.jsp">Go to Image Page</a>
 </body>
 </html>
