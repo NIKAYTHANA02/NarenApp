@@ -18,7 +18,7 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background-color: rgba(255, 255, 255, 0.8); /* Set opacity to 50% */
+            background-color: rgba(255, 255, 255, 0.9); /* Set opacity to 90% */
             z-index: -1; /* Ensure the background image is behind other content */
         }
 
@@ -33,9 +33,9 @@
     <a href="index.jsp">
         <img src="images/linuxerpro_logo.png" alt="My Logo" width="200" height="100">
     </a>
-    <h2>Why You Here</h2>
+    <h1>Why You Here</h1>
     <p>Here Nothing to SEE</p>
-    <a href="index.jsp">Go back to Work</a>
+    <a href="index.jsp">Go back to Work</a><br><br>
 	<a href="imagepage.jsp">Go to Image Page</a>
 </body>
 </html>

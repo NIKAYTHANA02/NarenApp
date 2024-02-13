@@ -18,7 +18,7 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background-color: rgba(255, 255, 255, 0.8); /* Set opacity to 30% */
+            background-color: rgba(255, 255, 255, 0.9); /* Set opacity to 90% */
             z-index: -1; /* Ensure the background image is behind other content */
         }
 
@@ -34,7 +34,7 @@
         <img src="images/linuxerpro_logo.png" alt="My Logo" width="200" height="100">
     </a>
     <div class="content">
-        <h2>Hello World! Welcome To 1234</h2>
+        <h1>Hello World! Welcome To 1234</h1>
         <a href="nextpage">Go to Next Page</a>
     </div>
 </body>
