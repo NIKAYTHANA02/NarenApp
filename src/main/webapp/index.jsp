@@ -34,7 +34,7 @@
         <img src="images/linuxerpro_logo.png" alt="My Logo" width="200" height="100">
     </a>
     <div class="content">
-        <h1>Hello World! Welcome To Release team</h1>
+        <h1>Hello World! Welcome To JAMAN</h1>
         <a href="nextpage">Go to Next Page</a>
     </div>
 </body>
